@@ -17,25 +17,37 @@ body {
   }
   
   .navbar-brand {
-    font-family: 'Arial', Times, serif;
-    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
     font-weight: bolder;
     background-color: rgb(20, 150, 150);
     padding: 10px;
     margin-left: 5%;
   }
 
-
+  .container{
+    background-color: white;
+}
   .h2{
     font-size:  20px;
-    font-family: Arial, Times, serif;
+    font-family: 'Times New Roman', serif;
+    color:rgb(20, 150, 150)
 }
+
+.Panel-body{
+    text-align: left;
+    color: rgb(20, 150, 150);
+    font-family: 'Times New Roman', Calibri, serif;
+  }
 
 .p1{
-    font-size: 20px;
-    font-family: Calibri, sans-serif , Times, serif;
+    font-size: 18px;
+    font-family: Calibri, serif;
+    color:rgb(20, 150, 150)
 }
 
-.buttons {
-    margin-bottom: .5em;
-  }
+.col-md-8{
+    border size: 50px;
+}
+
+
