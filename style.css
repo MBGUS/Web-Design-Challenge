@@ -1,0 +1,41 @@
+/* styling for Pen, not related to box-sizing or layout */
+
+body {
+    font-family: sans-serif;
+    font-size: 1.1em;
+    background-color:#eee;
+  }
+  
+  .navbar-light .navbar-brand {
+    color: white;
+  }
+  
+  .navbar {
+    background-color: white;
+    width: 100%;
+    padding: 0;
+  }
+  
+  .navbar-brand {
+    font-family: 'Arial', Times, serif;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(20, 150, 150);
+    padding: 10px;
+    margin-left: 5%;
+  }
+
+
+  .h2{
+    font-size:  20px;
+    font-family: Arial, Times, serif;
+}
+
+.p1{
+    font-size: 20px;
+    font-family: Calibri, sans-serif , Times, serif;
+}
+
+.buttons {
+    margin-bottom: .5em;
+  }
