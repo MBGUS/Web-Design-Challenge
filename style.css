@@ -38,7 +38,7 @@ body {
     text-align: justify;
     color: rgb(20, 150, 150);
     font-family: 'Times New Roman', Calibri, serif;
-    padding: 20px;
+    padding:1em;
     margin-top: 10px;
     margin-right: 10px;
     margin-left: 10px;
@@ -48,12 +48,10 @@ body {
     font-size: 18px;
     font-family: Calibri, serif;
     color:rgb(20, 150, 150)
-    justify-content: center;
-
-}
-
-.col-md-8{
-    border size: 50px;
+    text-align: justify;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 
