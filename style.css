@@ -22,7 +22,7 @@ body {
     font-weight: bolder;
     background-color: rgb(20, 150, 150);
     padding: 10px;
-    margin-left: 5%;
+    margin-left: 1%;
   }
 
   .container{
@@ -35,19 +35,26 @@ body {
 }
 
 .Panel-body{
-    text-align: left;
+    text-align: justify;
     color: rgb(20, 150, 150);
     font-family: 'Times New Roman', Calibri, serif;
+    padding: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
   }
 
 .p1{
     font-size: 18px;
     font-family: Calibri, serif;
     color:rgb(20, 150, 150)
+    justify-content: center;
+
 }
 
 .col-md-8{
     border size: 50px;
 }
+
 
 
